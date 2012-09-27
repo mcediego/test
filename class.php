@@ -9,5 +9,11 @@
     
     
   }
-
+  
+  class child {
+    function speak() {
+      echo 'child: Ciao, giochiamo?!';
+      echo '<br />';
+    }
+  }
 ?>
