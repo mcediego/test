@@ -2,8 +2,11 @@
   /*
    this is a test application for git
   */
+  require('class.php');
 
-  echo 'hello world!';
+  $steve = new robot;
+  
+  $steve->sayHello();
    
  
 ?>
