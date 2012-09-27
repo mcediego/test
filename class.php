@@ -7,6 +7,10 @@
       echo '<br />';
     }
     
+    function sayCiao() {
+      echo 'robot: Ciao!';
+      echo '<br />';
+    }
     
   }
 

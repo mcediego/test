@@ -7,6 +7,6 @@
   $steve = new robot;
   
   $steve->sayHello();
-   
+  $steve->sayCiao();
  
 ?>
